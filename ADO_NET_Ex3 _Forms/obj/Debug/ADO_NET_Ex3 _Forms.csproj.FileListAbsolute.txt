@@ -1,0 +1,10 @@
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\bin\Debug\ADO_NET_Ex3 _Forms.exe.config
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\bin\Debug\ADO_NET_Ex3 _Forms.exe
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\bin\Debug\ADO_NET_Ex3 _Forms.pdb
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3 _Forms.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3__Forms.Form1.resources
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3__Forms.Properties.Resources.resources
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3 _Forms.csproj.GenerateResource.cache
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3 _Forms.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3 _Forms.exe
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex3 _Forms\obj\Debug\ADO_NET_Ex3 _Forms.pdb

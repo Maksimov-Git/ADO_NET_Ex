@@ -1,0 +1,6 @@
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\bin\Debug\ADO_NET_Ex2.exe.config
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\bin\Debug\ADO_NET_Ex2.exe
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\bin\Debug\ADO_NET_Ex2.pdb
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\obj\Debug\ADO_NET_Ex2.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\obj\Debug\ADO_NET_Ex2.exe
+F:\обучение С#\программирование в информационных системах\ADONET\ADO_NET_Ex\ADO_NET_Ex2\obj\Debug\ADO_NET_Ex2.pdb
